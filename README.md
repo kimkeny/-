@@ -14,7 +14,8 @@
 - Email: [gustmd9146@gmail.com]
 <!--타이틀 부분-->
 <div align="center">
-  ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=60&fontColor=white)
+  ![header]
+  (https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=60&fontColor=white)
   </div>
 
 <!--내용 부분-->
