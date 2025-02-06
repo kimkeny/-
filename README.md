@@ -14,7 +14,7 @@
 - Email: [gustmd9146@gmail.com]
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=hi%20render&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi,%20I'm%20Kim%20keny&fontSize=90" />
   </div>
 
 <!--내용 부분-->
