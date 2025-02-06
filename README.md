@@ -18,14 +18,14 @@
 <!--내용 부분-->
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-  ![자바](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
-  ![스프링](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
-  ![JDBC](https://img.shields.io/badge/JDBC-CC0000?style=for-the-badge&logo=oracle&logoColor=white) 
-  ![마이바티스](https://img.shields.io/badge/MyBatis-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) 
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![자바]<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  ![스프링]<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  ![JDBC]<img src="https://img.shields.io/badge/JDBC-CC0000?style=for-the-badge&logo=oracle&logoColor=white">
+  ![마이바티스]<img src="https://img.shields.io/badge/MyBatis-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+  ![HTML]<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  ![CSS]<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  ![JavaScript]<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  ![React]<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 </div>
 
 <div align="center">
