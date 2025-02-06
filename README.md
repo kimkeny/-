@@ -1,5 +1,3 @@
-# 👋 Hi, I'm [kim keny]!
-
 ## 🚀 About Me
 비전공자로 개발 공부를 시작하여, 2024년 6월부터 12월까지 집중적으로 학습했습니다.
 이제 개발자가 되기위해서 성실하게 공부할 것이다.
@@ -20,9 +18,14 @@
 <!--내용 부분-->
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+  ![자바](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
+  ![스프링](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
+  ![JDBC](https://img.shields.io/badge/JDBC-CC0000?style=for-the-badge&logo=oracle&logoColor=white) 
+  ![마이바티스](https://img.shields.io/badge/MyBatis-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) 
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 </div>
 
 <div align="center">
